@@ -1,5 +1,5 @@
 resource "network" "main" {
-  subnet = "10.0.5.0/24"
+  subnet = "10.77.42.0/24"
 }
 
 resource "container" "ubuntu" {
